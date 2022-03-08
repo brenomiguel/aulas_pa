@@ -1,29 +1,29 @@
-algoritmo "Trocar Valores"
-// Fun��o :  Troca valores de 2 variaveis
+algoritmo "Trocar Valores com Variáveis digitadas pelo usuário"
+// Função :  Troca valores de 2 variaveis
 // Autor : Breno
 // Data : 08/03/2022
-// Se��o de Declara��es 
+// Seção de Declarações 
 var
 a:inteiro
 b:inteiro
 c:inteiro
 
 inicio
-// Se��o de Comandos
+// Seção de Comandos
 escreval("Digite o valor de a")
 leia(a)
 escreval("Digite o valor de b")
 leia(b)
-escreval("Valores originais das vari�veis")
-escreval("Valor da vari�vel A==>",a)
-escreval("Valor da vari�vel B==>",b)
+escreval("Valores originais das variáveis")
+escreval("Valor da variável A==>",a)
+escreval("Valor da variável B==>",b)
 escreval("*******************************")
 c <- a
 a <- b
 b <- c
 escreval("Resultado da troca de valores")
-escreval("Valor da vari�vel A==>",a)
-escreval("Valor da vari�vel B==>",b)
+escreval("Valor da variável A==>",a)
+escreval("Valor da variável B==>",b)
 
 
 
