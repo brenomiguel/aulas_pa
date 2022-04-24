@@ -6,3 +6,4 @@ Repositório paras as aulas de Programação e Algoritimos
 # exemplo 04:https://scratch.mit.edu/projects/671461474/
 # exemplo 05:https://scratch.mit.edu/projects/671473622/
 jOGO DO SCRATCH https://scratch.mit.edu/projects/674900052
+labirinto:https://scratch.mit.edu/projects/679965506/
