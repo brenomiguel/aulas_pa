@@ -1,0 +1,15 @@
+Valor Total das peças
+
+	entre com o valor para VALOR
+	entre com o valor para QTDE
+	faça o valor total(VT)=(VT=QTDE*VALOR)
+	mostre o valor total(VT)
+
+
+FimDoAlgoritimo
+
+	Teste de mesa
+
+Valor	QTDE	VT
+5	15	75
+3,50	25	87,5
