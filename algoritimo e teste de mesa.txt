@@ -1,0 +1,13 @@
+algoritimo calcule media
+	entre com um valor para P1
+	entre com um valor para P2
+	FAÇA MEDIA=(P1+P2)/2
+	MOSTRE MEDIA
+FimAlgoritimo
+
+
+
+Teste de mesa
+P1	P2	MEDIA
+6 	8 	7
+5 	7 	6
