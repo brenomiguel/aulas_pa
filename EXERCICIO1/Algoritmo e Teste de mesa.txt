@@ -1,0 +1,13 @@
+ALGORITMO ComverterDolar
+	Entre com um valor em Reais e atribua para valor_reais
+	Entre com a cotacao do dolar e atribua para cotacao
+	Faça valor_reais/cotacao e atribua o resultado para valor_convertido 
+	Mostre valor_convertido
+FimALGORITMO
+
+
+
+Teste de mesa
+Valor_reais	cotacao		valor_convertido
+100		5		20
+100		4.5		22.2
