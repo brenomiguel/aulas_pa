@@ -1,0 +1,8 @@
+algoritmo trabalho
+	entre com as  horas de trabalho para TB
+	entre com o valor do dinheiro por hora para RH
+	faca resultado=(TB*RH)
+	faca porc=(resultado*70/100)
+	faca resultado=(resultado+porc)
+fimalgoritmo
+

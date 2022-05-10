@@ -1,19 +1,20 @@
-algoritmo "CalculaComissao"
-// Função : pagamento de comissão de vendedores de peças
-// Autor : Breno Miguel
-// Data : 03/05/2022
-// Seção de Declarações
+algoritmo "algoritmohoras"
+// Função :
+// Autor :Breno Miguel
+// Data : 10/05/2022
+// Seção de Declarações 
 var
-venda,qtd,preco,comissao:real
+horas, Minutos, minutoz:real
 inicio
-escreva ("digite o preço unitário:  ")
-leia (preco)
-escreva ("informe a quantidade vendida:  ")
-leia(qtd)
-//PROCESSAMENTO
-venda <- qtd * preco
-comissao <- venda + (venda * 0.05)
+// dados de entrada
+escreval("entre com o valor de horas")
+leia(horas)
+escreval("entre com o valor de minutos")
+leia(Minutos)
+//processamento
+minutoz <- (Minutos/60)
+horas <- (horas+minutoz)
+//dados de saida
+escreval("agora são:", horas)
 
-//Dados de Saída
-escreva("salário mais sua comissão:  ",comissao)
 fimalgoritmo

@@ -1,0 +1,12 @@
+algoritmotempo
+	entre com o valor de Horas
+	entre com o valor dos Minutos
+	faca minutoz=(Minutos/60)
+	faca Horas=(Horas+minutoz)
+
+fimalgoritmo
+
+Teste de mesa
+
+3h40=3.67
+1h32=1.52	
