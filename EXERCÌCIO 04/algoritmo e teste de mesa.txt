@@ -1,0 +1,12 @@
+ALGORITMOCARRO
+	entre com o valor da fabricacaodo carro 
+	entre com o valor dos imp
+	entre com o valor da distribuicao
+	faca resultado=(fabricacao+imp+distribuicao)
+	mostre resultado
+
+
+teste de mesa
+fabricacao	imp	distribuiçao	resultado
+13.000		15%	13%		16.893
+97.000		75%	42%		241.045
