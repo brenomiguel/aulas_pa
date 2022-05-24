@@ -1,0 +1,15 @@
+AlgoritmoGasolina
+	entre com o valor dos quilometros percoridos
+	entre com o valor de quanto o carro consome
+	entre com o valor médio da gasolina
+	faca resultado=(km/kmg)
+	faca resultado=(resultado*medio)
+	faca resultado=(resultado*2)
+	mostre resultado
+FimAlgoritmo
+
+Teste de Mesa
+
+km	kmg	medio	resultado
+450	10	4.50	405
+600	5	4.50 	1080
