@@ -1,0 +1,16 @@
+algoritmo trabalho
+	entre com as  horas de trabalho para TB
+	entre com o valor do dinheiro por hora para RH
+	entre com o valor de horas por dinheiro
+	minutoz <- (Minutos/60)
+	horas <- (horas+minutoz)
+	pork <- (horas*rh)
+	jp <- 70
+	rh <- pork*(jp/100)
+	rh <- pork+rh	
+fimalgoritmo
+
+teste de mesa 
+trabalho	ganho	resultado
+15h45m		25	669,37
+20h		25	850
