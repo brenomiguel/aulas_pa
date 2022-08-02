@@ -1,0 +1,16 @@
+algoritmo "PARouÍMPAR"
+// Função :
+// Autor :
+// Data : 26/07/2022
+// Seção de Declarações 
+var
+num:inteiro
+inicio
+escreval("digite um numero: ")
+se num mod 2 = 0 entao
+           escreva("o número ", num, " é par!")
+       senao
+           escreva("o número ", num, " é ímpar!")
+       fimse
+// Seção de Comandos
+fimalgoritmo
