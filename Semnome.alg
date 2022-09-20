@@ -1,20 +1,20 @@
-algoritmo "algoritmohoras"
+algoritmo "semnome"
 // Função :
-// Autor :Breno Miguel
-// Data : 10/05/2022
+// Autor :
+// Data : 20/09/2022
 // Seção de Declarações 
 var
-horas, Minutos, minutoz:real
+n1,n2:inteiro
 inicio
-// dados de entrada
-escreval("entre com o valor de horas")
-leia(horas)
-escreval("entre com o valor de minutos")
-leia(Minutos)
-//processamento
-minutoz <- (Minutos/60)
-horas <- (horas+minutoz)
-//dados de saida
-escreval("agora são:", horas)
+// Seção de Comandos 
+repita
+ escreval("Digite um numero")
+ leia(n1)
+se (n1 mod 2=0) entao
+ n2 <- n1+n2
+fimse
+ 
 
+ate(n1=0)
+escreval(n2)
 fimalgoritmo
